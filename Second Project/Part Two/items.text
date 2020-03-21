@@ -1,0 +1,34 @@
+  /* 
+  const items = [
+    {
+      id: "gRdCckSAn",
+      checked: false,
+      text: "bread"
+    },
+    {
+      id: "XhomHhF7K",
+      checked: false,
+      text: "milk"
+    },
+    {
+      id: "f4iCMQNG-",
+      checked: false,
+      text: "eggs"
+    },
+    {
+      id: "TRMTbf09s",
+      checked: false,
+      text: "cheese"
+    },
+    {
+      id: "B-QjMQOTS",
+      checked: false,
+      text: "beans"
+    },
+    {
+      id: "gMASkpZwZ",
+      checked: false,
+      text: "candy"
+    }
+  ];
+ */
